@@ -22,4 +22,4 @@ I'm an entry-level **Data Analyst** with a strong foundation in **Applied Statis
 - BSc Communication Engineering
 
 ## 📫 Let's Connect
-- LinkedIn: (https://www.linkedin.com/in/wadahfred-kudi-0918272b4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- LinkedIn: (https://www.linkedin.com/in/wadahfred-kudi-b19344207/)
