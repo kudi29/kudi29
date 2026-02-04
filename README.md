@@ -12,13 +12,13 @@ I'm an entry-level **Data Analyst** with a strong foundation in **Applied Statis
 - Statistics
 
 ## 📊 Featured Project
-### 🏥 Hospital Admissions & Patient Outcomes Analysis
+### 🏥 Healthcare Utilization & Revenue Analysis
 - Cleaned and transformed healthcare data using SQL
 - Designed analytics-ready tables from raw datasets
 - Built dashboards to analyze patient outcomes and trends
 
 ## 🎓 Education
-- MSc Applied Statistics (Expected Jun 2026)
+- MSc Applied Statistics (Expected Jan 2027)
 - BSc Communication Engineering
 
 ## 📫 Let's Connect
