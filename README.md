@@ -1,6 +1,6 @@
 # Hi, I'm Wadahfred 👋
 
-I'm an entry-level **Data Analyst** with a strong foundation in **Applied Statistics** and hands-on experience working with real-world datasets.
+I'm a **Data Analyst** with a strong foundation in **Applied Statistics** and hands-on experience working with real-world datasets.
 
 ## 🛠 Skills
 - SQL (PostgreSQL)
