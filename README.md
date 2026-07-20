@@ -2,7 +2,7 @@
 
 I'm a **Data Analyst** with a strong foundation in **Applied Statistics** and hands-on experience working with real-world datasets.
 
-## 🛠 Skills
+## Skills
 - SQL (PostgreSQL)
 - Excel
 - Power BI
@@ -11,15 +11,15 @@ I'm a **Data Analyst** with a strong foundation in **Applied Statistics** and ha
 - Data Visualization
 - Statistics
 
-## 📊 Featured Project
-### 🏥 Healthcare Utilization & Revenue Analysis
+## Featured Project
+### Healthcare Utilization & Revenue Analysis
 - Cleaned and transformed healthcare data using SQL
 - Designed analytics-ready tables from raw datasets
 - Built dashboards to analyze patient outcomes and trends
 
-## 🎓 Education
+## Education
 - MSc Applied Statistics (Expected Jan 2027)
 - BSc Communication Engineering
 
-## 📫 Let's Connect
+## Let's Connect
 - LinkedIn: (https://www.linkedin.com/in/wadahfred-kudi-b19344207/)
