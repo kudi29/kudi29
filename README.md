@@ -1,6 +1,7 @@
 # Hi, I'm Wadahfred 👋
 
-I'm a **Data Analyst** with a strong foundation in **Applied Statistics** and hands-on experience working with real-world datasets.
+**A Data Analyst with a strong background in Applied Statistics**, I'M passionate about transforming data into meaningful insights and supporting data-driven decision-making.
+I'm Interested in Data Analytics, Business Intelligence & Healthcare Analytics
 
 ## Skills
 - SQL (PostgreSQL)
