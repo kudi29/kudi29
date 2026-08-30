@@ -18,6 +18,14 @@ I'm Interested in Data Analytics, Business Intelligence & Healthcare Analytics
 - Designed analytics-ready tables from raw datasets
 - Built dashboards to analyze patient outcomes and trends
 
+### Sales & Profitability Analysis
+- Analyzed sales, profitability, discounting, and product performance using a PostgreSQL-to-Power BI pipeline.
+- Profitability trends and YoY performance
+- Discount impact on profit margin
+- Product and category profitability
+- Data quality and reporting
+  
+
 ## Education
 - MSc Applied Statistics (Expected Jan 2027)
 - BSc Communication Engineering
