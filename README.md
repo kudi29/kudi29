@@ -43,16 +43,17 @@ I focus on the **data behind the decision**. With a strong background in applied
 
 ## 🚀 Featured Projects
 
-### 01. [Sales & Profitability Analysis](https://github.com/kudi29/Sales-Profitability-Analysis)
+### 01. [Operations & Revenue Analysis (AdventureWorks)](https://github.com/kudi29/Operations_and_Revenue_Analysis)
+*Analyzed 121K+ order lines (FY2018–FY2020) to uncover root causes for margin slipping while sales doubled.*
+* **Business Insight:** Identified that margin erosion was a **channel problem, not a product problem**—Touring Bikes lost margin (-11.8%) through resellers but earned 37.8% online.
+* **Execution:** Profiled key integrity in PostgreSQL, constructed role-playing date dimensions, implemented fiscal-calendar DAX intelligence, and presented strategic repricing recommendations.
+
+### 02. [Sales & Profitability Analysis](https://github.com/kudi29/Sales-Profitability-Analysis)
 *Transformed a 180K-row supply-chain dataset into a decision-ready 3-page Power BI executive report.*
 * **Data Pipeline:** Built a PostgreSQL **Bronze → Silver → Gold** architecture to clean inconsistent formatting, resolve orphan records, and enforce strict table grain.
 * **Key Deliverable:** Built a star schema with central DAX measures for executive profitability, discount margins, and product/category performance.
 * **Validation:** Reconciled report figures directly against PostgreSQL source data and documented boundary limitations.
 
-### 02. [Operations & Revenue Analysis (AdventureWorks)](https://github.com/kudi29/Operations_and_Revenue_Analysis)
-*Analyzed 121K+ order lines (FY2018–FY2020) to uncover root causes for margin slipping while sales doubled.*
-* **Business Insight:** Identified that margin erosion was a **channel problem, not a product problem**—Touring Bikes lost margin (-11.8%) through resellers but earned 37.8% online.
-* **Execution:** Profiled key integrity in PostgreSQL, constructed role-playing date dimensions, implemented fiscal-calendar DAX intelligence, and presented strategic repricing recommendations.
 
 ---
 
