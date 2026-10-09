@@ -57,22 +57,6 @@ I focus on the **data behind the decision**. With a strong background in applied
 
 ---
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kudi29/kudi29/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%" />
-</p>
-
----
-
-## ⚡ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kudi29&show_icons=true&theme=tokyonight&count_private=true" alt="Wadahfred's GitHub Stats" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kudi29&layout=compact&theme=tokyonight&hide=html,css" alt="Most Used Languages" height="175"/>
-</p>
-
----
 
 ## 📫 Let's Connect
 
